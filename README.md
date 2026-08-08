@@ -181,18 +181,23 @@ NetOPs/
 ---
 
 ## 7. Screenshots / Demo
+<img width="1919" height="901" alt="Screenshot 2026-06-30 153921" src="https://github.com/user-attachments/assets/500b7a28-4909-459c-992e-d2ec95896ef6" />
 
-> _Add screenshots or a short screen recording of the dashboard here — recommended shots: Dashboard Overview, Network Topology graph, SSH Terminal, Incident Management, and Packet Capture view._
+<img width="1919" height="902" alt="Screenshot 2026-06-30 153934" src="https://github.com/user-attachments/assets/9081fb99-fc37-4b33-ae13-a96a1176f6e6" />
 
-```
-docs/
-└── screenshots/
-    ├── dashboard-overview.png
-    ├── network-topology.png
-    ├── ssh-terminal.png
-    ├── incident-management.png
-    └── packet-capture.png
-```
+<img width="1918" height="907" alt="Screenshot 2026-06-30 153952" src="https://github.com/user-attachments/assets/6285bd88-6f68-4aff-a120-8ed80b52fe46" />
+
+<img width="1919" height="899" alt="Screenshot 2026-07-01 104346" src="https://github.com/user-attachments/assets/4ca8935d-8144-4f2d-90ad-14b8f63e3826" />
+
+<img width="1919" height="912" alt="Screenshot 2026-07-01 112708" src="https://github.com/user-attachments/assets/8910fd0a-ee1a-44c0-b134-61715925d23b" />
+
+<img width="1919" height="912" alt="Screenshot 2026-07-01 112622" src="https://github.com/user-attachments/assets/6a520bd2-4eba-4c59-816a-6e9c735ff71a" />
+
+<img width="1919" height="634" alt="Screenshot 2026-07-01 112911" src="https://github.com/user-attachments/assets/b0ce4386-659e-4d07-9032-fce7afdcd440" />
+
+<img width="1919" height="898" alt="Screenshot 2026-07-01 112757" src="https://github.com/user-attachments/assets/8ae06e7a-0642-4564-8ba6-d4e02b48ea1a" />
+
+
 
 ---
 
@@ -349,8 +354,6 @@ cd backend
 pytest
 ```
 
-Recommended coverage areas going forward: SSH command allow/block-list enforcement, credential encryption round-trips, discovery parsing (LLDP/CDP MIB responses), and incident de-duplication logic in the trap receiver.
-
 ---
 
 ## 14. Troubleshooting
@@ -410,7 +413,3 @@ GitHub: [@ruchikalodhi](https://github.com/ruchikalodhi)
 Contributions are welcome — feel free to open an [issue](https://github.com/ruchikalodhi/NetOPs/issues) or submit a pull request.
 
 ---
-
-## 19. License
-
-This project is currently unlicensed. Add a `LICENSE` file (e.g., MIT) to the repository root to specify usage terms.
